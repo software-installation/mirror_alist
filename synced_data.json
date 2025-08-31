@@ -2,551 +2,555 @@
   "releases": {
     "35699216": {
       "tag_name": "v0.1.0",
-      "fully_synced_at": "2025-08-29 06:26:15.023010"
+      "fully_synced_at": "2025-08-31 06:24:08.675160"
     },
     "35760132": {
       "tag_name": "v0.1.1",
-      "fully_synced_at": "2025-08-29 06:26:21.302374"
+      "fully_synced_at": "2025-08-31 06:24:14.184327"
     },
     "35794540": {
       "tag_name": "v0.1.2",
-      "fully_synced_at": "2025-08-29 06:26:26.862661"
+      "fully_synced_at": "2025-08-31 06:24:19.771617"
     },
     "35868314": {
       "tag_name": "v0.1.3",
-      "fully_synced_at": "2025-08-29 06:26:32.662631"
+      "fully_synced_at": "2025-08-31 06:24:27.220699"
     },
     "36027899": {
       "tag_name": "v0.1.4",
-      "fully_synced_at": "2025-08-29 06:26:38.172595"
+      "fully_synced_at": "2025-08-31 06:24:32.571980"
     },
     "36268654": {
       "tag_name": "v0.1.5",
-      "fully_synced_at": "2025-08-29 06:26:44.282105"
+      "fully_synced_at": "2025-08-31 06:24:38.566180"
     },
     "36751963": {
       "tag_name": "v0.1.6",
-      "fully_synced_at": "2025-08-29 06:26:49.906488"
+      "fully_synced_at": "2025-08-31 06:24:43.776410"
     },
     "39756617": {
       "tag_name": "v0.1.7",
-      "fully_synced_at": "2025-08-29 06:26:55.649873"
+      "fully_synced_at": "2025-08-31 06:24:48.735844"
     },
     "39759471": {
       "tag_name": "v1.0.0",
-      "fully_synced_at": "2025-08-29 06:27:01.798145"
+      "fully_synced_at": "2025-08-31 06:24:54.703496"
     },
     "39920212": {
       "tag_name": "v1.0.1",
-      "fully_synced_at": "2025-08-29 06:27:08.200940"
+      "fully_synced_at": "2025-08-31 06:25:00.385971"
     },
     "40735220": {
       "tag_name": "v1.0.2",
-      "fully_synced_at": "2025-08-29 06:27:14.633957"
+      "fully_synced_at": "2025-08-31 06:25:07.021450"
     },
     "41159264": {
       "tag_name": "v1.0.3",
-      "fully_synced_at": "2025-08-29 06:27:20.627674"
+      "fully_synced_at": "2025-08-31 06:25:13.098840"
     },
     "42308891": {
       "tag_name": "v1.0.4",
-      "fully_synced_at": "2025-08-29 06:27:26.640226"
+      "fully_synced_at": "2025-08-31 06:25:18.846232"
     },
     "45491604": {
       "tag_name": "v1.0.5",
-      "fully_synced_at": "2025-08-29 06:27:32.151163"
+      "fully_synced_at": "2025-08-31 06:25:24.333594"
     },
     "52594295": {
       "tag_name": "v1.0.6",
-      "fully_synced_at": "2025-08-29 06:27:38.183529"
+      "fully_synced_at": "2025-08-31 06:25:30.140046"
     },
     "52597109": {
       "tag_name": "v2.0.0-beta",
-      "fully_synced_at": "2025-08-29 06:27:43.551176"
+      "fully_synced_at": "2025-08-31 06:25:35.141608"
     },
     "52684050": {
       "tag_name": "v2.0.0-beta2",
-      "fully_synced_at": "2025-08-29 06:27:48.528102"
+      "fully_synced_at": "2025-08-31 06:25:40.656552"
     },
     "52786844": {
       "tag_name": "v2.0.0-beta3",
-      "fully_synced_at": "2025-08-29 06:27:53.283245"
+      "fully_synced_at": "2025-08-31 06:25:45.529661"
     },
     "53013648": {
       "tag_name": "v2.0.0-beta4",
-      "fully_synced_at": "2025-08-29 06:27:58.809195"
+      "fully_synced_at": "2025-08-31 06:25:50.627371"
     },
     "53325031": {
       "tag_name": "v2.0.0-beta5",
-      "fully_synced_at": "2025-08-29 06:28:03.982675"
+      "fully_synced_at": "2025-08-31 06:25:56.071455"
     },
     "53567899": {
       "tag_name": "v2.0.0-beta6",
-      "fully_synced_at": "2025-08-29 06:28:09.598946"
+      "fully_synced_at": "2025-08-31 06:26:01.098722"
     },
     "54188906": {
       "tag_name": "v2.0.0-beta7",
-      "fully_synced_at": "2025-08-29 06:28:15.050282"
+      "fully_synced_at": "2025-08-31 06:26:05.626656"
     },
     "54468918": {
       "tag_name": "v2.0.0",
-      "fully_synced_at": "2025-08-29 06:28:21.366798"
+      "fully_synced_at": "2025-08-31 06:26:11.770804"
     },
     "54958828": {
       "tag_name": "v2.0.1",
-      "fully_synced_at": "2025-08-29 06:28:26.173105"
+      "fully_synced_at": "2025-08-31 06:26:17.523294"
     },
     "55466676": {
       "tag_name": "v2.0.2",
-      "fully_synced_at": "2025-08-29 06:28:31.347804"
+      "fully_synced_at": "2025-08-31 06:26:22.365172"
     },
     "55750669": {
       "tag_name": "v2.0.3",
-      "fully_synced_at": "2025-08-29 06:28:36.576783"
+      "fully_synced_at": "2025-08-31 06:26:27.577331"
     },
     "56250615": {
       "tag_name": "v2.0.4-fix",
-      "fully_synced_at": "2025-08-29 06:28:41.976048"
+      "fully_synced_at": "2025-08-31 06:26:32.203791"
     },
     "56266745": {
       "tag_name": "v2.0.4-fix2",
-      "fully_synced_at": "2025-08-29 06:28:46.787282"
+      "fully_synced_at": "2025-08-31 06:26:37.641771"
     },
     "56851325": {
       "tag_name": "v2.0.5",
-      "fully_synced_at": "2025-08-29 06:28:52.178136"
+      "fully_synced_at": "2025-08-31 06:26:42.623260"
     },
     "56884871": {
       "tag_name": "v2.0.5-libc",
-      "fully_synced_at": "2025-08-29 06:28:57.670821"
+      "fully_synced_at": "2025-08-31 06:26:47.741316"
     },
     "57117154": {
       "tag_name": "v2.0.6",
-      "fully_synced_at": "2025-08-29 06:29:02.833697"
+      "fully_synced_at": "2025-08-31 06:26:52.342916"
     },
     "57577464": {
       "tag_name": "v2.0.7",
-      "fully_synced_at": "2025-08-29 06:29:08.043823"
+      "fully_synced_at": "2025-08-31 06:26:57.145637"
     },
     "58258405": {
       "tag_name": "v2.0.8",
-      "fully_synced_at": "2025-08-29 06:29:12.870373"
+      "fully_synced_at": "2025-08-31 06:27:02.324051"
     },
     "58669974": {
       "tag_name": "v2.0.9",
-      "fully_synced_at": "2025-08-29 06:29:17.926309"
+      "fully_synced_at": "2025-08-31 06:27:07.796757"
     },
     "59900937": {
       "tag_name": "v2.0.10",
-      "fully_synced_at": "2025-08-29 06:29:22.928678"
+      "fully_synced_at": "2025-08-31 06:27:12.434169"
     },
     "60500964": {
       "tag_name": "v2.1.0",
-      "fully_synced_at": "2025-08-29 06:29:27.414450"
+      "fully_synced_at": "2025-08-31 06:27:17.688869"
     },
     "60988742": {
       "tag_name": "v2.1.1",
-      "fully_synced_at": "2025-08-29 06:29:32.379146"
+      "fully_synced_at": "2025-08-31 06:27:22.562512"
     },
     "61052208": {
       "tag_name": "v2.1.2",
-      "fully_synced_at": "2025-08-29 06:29:37.321489"
+      "fully_synced_at": "2025-08-31 06:27:27.546615"
     },
     "61118518": {
       "tag_name": "v2.1.3",
-      "fully_synced_at": "2025-08-29 06:29:42.608910"
+      "fully_synced_at": "2025-08-31 06:27:32.393000"
     },
     "61703810": {
       "tag_name": "v2.2.0",
-      "fully_synced_at": "2025-08-29 06:29:48.246269"
+      "fully_synced_at": "2025-08-31 06:27:37.720723"
     },
     "63274125": {
       "tag_name": "v2.3.0",
-      "fully_synced_at": "2025-08-29 06:29:53.080455"
+      "fully_synced_at": "2025-08-31 06:27:42.308419"
     },
     "63386106": {
       "tag_name": "v2.3.2",
-      "fully_synced_at": "2025-08-29 06:29:58.154320"
+      "fully_synced_at": "2025-08-31 06:27:47.468307"
     },
     "64601980": {
       "tag_name": "v2.4.0",
-      "fully_synced_at": "2025-08-29 06:30:03.487757"
+      "fully_synced_at": "2025-08-31 06:27:52.433063"
     },
     "64606923": {
       "tag_name": "v2.4.1",
-      "fully_synced_at": "2025-08-29 06:30:08.468763"
+      "fully_synced_at": "2025-08-31 06:27:57.645703"
     },
     "65034600": {
       "tag_name": "v2.4.2",
-      "fully_synced_at": "2025-08-29 06:30:13.444110"
+      "fully_synced_at": "2025-08-31 06:28:02.468053"
     },
     "65165678": {
       "tag_name": "v2.4.3",
-      "fully_synced_at": "2025-08-29 06:30:18.552039"
+      "fully_synced_at": "2025-08-31 06:28:07.086727"
     },
     "66287459": {
       "tag_name": "v2.5.0",
-      "fully_synced_at": "2025-08-29 06:30:23.090692"
+      "fully_synced_at": "2025-08-31 06:28:10.986396"
     },
     "66308362": {
       "tag_name": "v2.5.1",
-      "fully_synced_at": "2025-08-29 06:30:26.850225"
+      "fully_synced_at": "2025-08-31 06:28:15.067213"
     },
     "66781005": {
       "tag_name": "v2.5.2",
-      "fully_synced_at": "2025-08-29 06:30:31.137646"
+      "fully_synced_at": "2025-08-31 06:28:18.840400"
     },
     "68071873": {
       "tag_name": "v2.6.0",
-      "fully_synced_at": "2025-08-29 06:30:35.315061"
+      "fully_synced_at": "2025-08-31 06:28:22.436807"
     },
     "68692577": {
       "tag_name": "v2.6.1",
-      "fully_synced_at": "2025-08-29 06:30:39.924777"
+      "fully_synced_at": "2025-08-31 06:28:28.787950"
     },
     "72533958": {
       "tag_name": "v2.6.2",
-      "fully_synced_at": "2025-08-29 06:30:44.118117"
+      "fully_synced_at": "2025-08-31 06:28:33.295332"
     },
     "72585663": {
       "tag_name": "v2.6.3",
-      "fully_synced_at": "2025-08-29 06:30:48.467016"
+      "fully_synced_at": "2025-08-31 06:28:37.417390"
     },
     "74372336": {
       "tag_name": "v2.6.4",
-      "fully_synced_at": "2025-08-29 06:30:52.642607"
+      "fully_synced_at": "2025-08-31 06:28:41.484794"
     },
     "76689577": {
       "tag_name": "v3.0.0-beta.0",
-      "fully_synced_at": "2025-08-29 06:30:56.728545"
+      "fully_synced_at": "2025-08-31 06:28:46.091789"
     },
     "76787524": {
       "tag_name": "v3.0.0-beta.1",
-      "fully_synced_at": "2025-08-29 06:31:01.065432"
+      "fully_synced_at": "2025-08-31 06:28:50.591133"
     },
     "76826688": {
       "tag_name": "v3.0.0-beta.2",
-      "fully_synced_at": "2025-08-29 06:31:05.662370"
+      "fully_synced_at": "2025-08-31 06:28:54.561844"
     },
     "77280494": {
       "tag_name": "v3.0.0-rc.0",
-      "fully_synced_at": "2025-08-29 06:31:09.721972"
+      "fully_synced_at": "2025-08-31 06:28:58.604865"
     },
     "77479353": {
       "tag_name": "v3.0.0-rc.1",
-      "fully_synced_at": "2025-08-29 06:31:14.423808"
+      "fully_synced_at": "2025-08-31 06:29:03.046609"
     },
     "77860276": {
       "tag_name": "v3.0.1",
-      "fully_synced_at": "2025-08-29 06:31:18.385043"
+      "fully_synced_at": "2025-08-31 06:29:08.769473"
     },
     "78072613": {
       "tag_name": "v3.0.2",
-      "fully_synced_at": "2025-08-29 06:31:22.474738"
+      "fully_synced_at": "2025-08-31 06:29:12.479270"
     },
     "78238336": {
       "tag_name": "v3.0.3",
-      "fully_synced_at": "2025-08-29 06:31:26.885550"
+      "fully_synced_at": "2025-08-31 06:29:16.309595"
     },
     "79267674": {
       "tag_name": "v3.1.0",
-      "fully_synced_at": "2025-08-29 06:31:31.339198"
+      "fully_synced_at": "2025-08-31 06:29:20.726504"
     },
     "79621892": {
       "tag_name": "v3.2.0",
-      "fully_synced_at": "2025-08-29 06:31:35.579093"
+      "fully_synced_at": "2025-08-31 06:29:25.004114"
     },
     "80168657": {
       "tag_name": "v3.2.1",
-      "fully_synced_at": "2025-08-29 06:31:39.568582"
+      "fully_synced_at": "2025-08-31 06:29:29.101659"
     },
     "81647847": {
       "tag_name": "v3.3.0",
-      "fully_synced_at": "2025-08-29 06:31:43.357506"
+      "fully_synced_at": "2025-08-31 06:29:33.085642"
     },
     "82787139": {
       "tag_name": "v3.4.0",
-      "fully_synced_at": "2025-08-29 06:31:47.438873"
+      "fully_synced_at": "2025-08-31 06:29:36.792027"
     },
     "83869899": {
       "tag_name": "v3.5.1",
-      "fully_synced_at": "2025-08-29 06:31:51.734106"
+      "fully_synced_at": "2025-08-31 06:29:41.293889"
     },
     "84994678": {
       "tag_name": "v3.6.0",
-      "fully_synced_at": "2025-08-29 06:31:56.401108"
+      "fully_synced_at": "2025-08-31 06:29:45.811871"
     },
     "87539956": {
       "tag_name": "v3.7.1",
-      "fully_synced_at": "2025-08-29 06:32:00.715442"
+      "fully_synced_at": "2025-08-31 06:29:50.263662"
     },
     "87575403": {
       "tag_name": "v3.7.2",
-      "fully_synced_at": "2025-08-29 06:32:05.046972"
+      "fully_synced_at": "2025-08-31 06:29:54.903330"
     },
     "87996897": {
       "tag_name": "v3.8.0",
-      "fully_synced_at": "2025-08-29 06:32:09.570365"
+      "fully_synced_at": "2025-08-31 06:29:59.211659"
     },
     "89337739": {
       "tag_name": "v3.9.0",
-      "fully_synced_at": "2025-08-29 06:32:13.502585"
+      "fully_synced_at": "2025-08-31 06:30:03.498561"
     },
     "89514134": {
       "tag_name": "v3.9.1",
-      "fully_synced_at": "2025-08-29 06:32:17.470629"
+      "fully_synced_at": "2025-08-31 06:30:07.919848"
     },
     "90387564": {
       "tag_name": "v3.9.2",
-      "fully_synced_at": "2025-08-29 06:32:21.373653"
+      "fully_synced_at": "2025-08-31 06:30:15.290735"
     },
     "91368418": {
       "tag_name": "v3.10.1",
-      "fully_synced_at": "2025-08-29 06:32:25.839495"
+      "fully_synced_at": "2025-08-31 06:30:19.831029"
     },
     "92345719": {
       "tag_name": "v3.11.0",
-      "fully_synced_at": "2025-08-29 06:32:28.908200"
+      "fully_synced_at": "2025-08-31 06:30:23.145050"
     },
     "93450302": {
       "tag_name": "v3.12.0",
-      "fully_synced_at": "2025-08-29 06:32:31.740964"
+      "fully_synced_at": "2025-08-31 06:30:26.388072"
     },
     "93670158": {
       "tag_name": "v3.12.1",
-      "fully_synced_at": "2025-08-29 06:32:34.711892"
+      "fully_synced_at": "2025-08-31 06:30:29.402897"
     },
     "93673328": {
       "tag_name": "v3.12.2",
-      "fully_synced_at": "2025-08-29 06:32:37.989763"
+      "fully_synced_at": "2025-08-31 06:30:32.769136"
     },
     "94631057": {
       "tag_name": "v3.13.1",
-      "fully_synced_at": "2025-08-29 06:32:41.378256"
+      "fully_synced_at": "2025-08-31 06:30:35.835322"
     },
     "94930903": {
       "tag_name": "v3.13.2",
-      "fully_synced_at": "2025-08-29 06:32:44.601987"
+      "fully_synced_at": "2025-08-31 06:30:38.511499"
     },
     "95835038": {
       "tag_name": "v3.14.0",
-      "fully_synced_at": "2025-08-29 06:32:47.508822"
+      "fully_synced_at": "2025-08-31 06:30:41.951938"
     },
     "96899928": {
       "tag_name": "v3.15.0",
-      "fully_synced_at": "2025-08-29 06:32:51.013053"
+      "fully_synced_at": "2025-08-31 06:30:45.214613"
     },
     "98442274": {
       "tag_name": "v3.15.1",
-      "fully_synced_at": "2025-08-29 06:32:54.850804"
+      "fully_synced_at": "2025-08-31 06:30:49.087549"
     },
     "99550442": {
       "tag_name": "v3.16.0",
-      "fully_synced_at": "2025-08-29 06:32:58.765724"
+      "fully_synced_at": "2025-08-31 06:30:53.099700"
     },
     "100969324": {
       "tag_name": "v3.16.1",
-      "fully_synced_at": "2025-08-29 06:33:02.751495"
+      "fully_synced_at": "2025-08-31 06:30:56.621107"
     },
     "101107542": {
       "tag_name": "v3.16.2",
-      "fully_synced_at": "2025-08-29 06:33:06.696764"
+      "fully_synced_at": "2025-08-31 06:31:00.273527"
     },
     "101149609": {
       "tag_name": "v3.16.3",
-      "fully_synced_at": "2025-08-29 06:33:10.829546"
+      "fully_synced_at": "2025-08-31 06:31:04.257390"
     },
     "102895484": {
       "tag_name": "v3.17.0",
-      "fully_synced_at": "2025-08-29 06:33:15.077157"
+      "fully_synced_at": "2025-08-31 06:31:08.078171"
     },
     "104992304": {
       "tag_name": "v3.18.0",
-      "fully_synced_at": "2025-08-29 06:33:19.025904"
+      "fully_synced_at": "2025-08-31 06:31:12.606063"
     },
     "108968181": {
       "tag_name": "v3.19.0",
-      "fully_synced_at": "2025-08-29 06:33:23.043522"
+      "fully_synced_at": "2025-08-31 06:31:16.448565"
     },
     "110992020": {
       "tag_name": "v3.20.0",
-      "fully_synced_at": "2025-08-29 06:33:27.128742"
+      "fully_synced_at": "2025-08-31 06:31:20.282664"
     },
     "111059276": {
       "tag_name": "v3.20.1",
-      "fully_synced_at": "2025-08-29 06:33:30.963774"
+      "fully_synced_at": "2025-08-31 06:31:24.174749"
     },
     "111804520": {
       "tag_name": "v3.21.0",
-      "fully_synced_at": "2025-08-29 06:33:35.141084"
+      "fully_synced_at": "2025-08-31 06:31:28.407611"
     },
     "112368989": {
       "tag_name": "v3.22.0",
-      "fully_synced_at": "2025-08-29 06:33:39.676089"
+      "fully_synced_at": "2025-08-31 06:31:32.530063"
     },
     "112402640": {
       "tag_name": "v3.22.1",
-      "fully_synced_at": "2025-08-29 06:33:43.846824"
+      "fully_synced_at": "2025-08-31 06:31:36.227307"
     },
     "113116028": {
       "tag_name": "v3.23.0",
-      "fully_synced_at": "2025-08-29 06:33:47.741472"
+      "fully_synced_at": "2025-08-31 06:31:40.459534"
     },
     "114395311": {
       "tag_name": "v3.24.0",
-      "fully_synced_at": "2025-08-29 06:33:51.620946"
+      "fully_synced_at": "2025-08-31 06:31:44.338011"
     },
     "115452199": {
       "tag_name": "v3.25.1",
-      "fully_synced_at": "2025-08-29 06:33:55.865557"
+      "fully_synced_at": "2025-08-31 06:31:48.794360"
     },
     "117956670": {
       "tag_name": "v3.26.0",
-      "fully_synced_at": "2025-08-29 06:34:00.368962"
+      "fully_synced_at": "2025-08-31 06:31:53.460427"
     },
     "119738548": {
       "tag_name": "v3.27.0",
-      "fully_synced_at": "2025-08-29 06:34:05.193258"
+      "fully_synced_at": "2025-08-31 06:31:58.066696"
     },
     "122221060": {
       "tag_name": "v3.28.0",
-      "fully_synced_at": "2025-08-29 06:34:09.321944"
+      "fully_synced_at": "2025-08-31 06:32:02.244152"
     },
     "131345084": {
       "tag_name": "v3.29.0",
-      "fully_synced_at": "2025-08-29 06:34:13.693226"
+      "fully_synced_at": "2025-08-31 06:32:06.466058"
     },
     "131424949": {
       "tag_name": "v3.29.1",
-      "fully_synced_at": "2025-08-29 06:34:18.335782"
+      "fully_synced_at": "2025-08-31 06:32:10.758232"
     },
     "135932980": {
       "tag_name": "v3.30.0",
-      "fully_synced_at": "2025-08-29 06:34:22.516632"
+      "fully_synced_at": "2025-08-31 06:32:15.574013"
     },
     "143350854": {
       "tag_name": "v3.31.0",
-      "fully_synced_at": "2025-08-29 06:34:25.700317"
+      "fully_synced_at": "2025-08-31 06:32:19.119749"
     },
     "144489346": {
       "tag_name": "v3.32.0",
-      "fully_synced_at": "2025-08-29 06:34:29.169094"
+      "fully_synced_at": "2025-08-31 06:32:22.714504"
     },
     "148241980": {
       "tag_name": "v3.33.0",
-      "fully_synced_at": "2025-08-29 06:34:32.743109"
+      "fully_synced_at": "2025-08-31 06:32:26.018451"
     },
     "153860428": {
       "tag_name": "v3.34.0",
-      "fully_synced_at": "2025-08-29 06:34:36.339712"
+      "fully_synced_at": "2025-08-31 06:32:29.067615"
     },
     "157113646": {
       "tag_name": "v3.35.0",
-      "fully_synced_at": "2025-08-29 06:34:39.496875"
+      "fully_synced_at": "2025-08-31 06:32:32.134441"
     },
     "166404162": {
       "tag_name": "v3.36.0",
-      "fully_synced_at": "2025-08-29 06:34:43.269967"
+      "fully_synced_at": "2025-08-31 06:32:35.307605"
     },
     "174001816": {
       "tag_name": "v3.37.1",
-      "fully_synced_at": "2025-08-29 06:34:46.590950"
+      "fully_synced_at": "2025-08-31 06:32:38.388648"
     },
     "174998123": {
       "tag_name": "v3.37.2",
-      "fully_synced_at": "2025-08-29 06:34:49.935398"
+      "fully_synced_at": "2025-08-31 06:32:41.505137"
     },
     "175294616": {
       "tag_name": "v3.37.3",
-      "fully_synced_at": "2025-08-29 06:34:53.437858"
+      "fully_synced_at": "2025-08-31 06:32:44.578322"
     },
     "175728077": {
       "tag_name": "v3.37.4",
-      "fully_synced_at": "2025-08-29 06:34:57.242568"
+      "fully_synced_at": "2025-08-31 06:32:47.673714"
     },
     "179575471": {
       "tag_name": "v3.38.0",
-      "fully_synced_at": "2025-08-29 06:35:01.320952"
+      "fully_synced_at": "2025-08-31 06:32:50.939231"
     },
     "183202845": {
       "tag_name": "v3.39.1",
-      "fully_synced_at": "2025-08-29 06:35:05.129056"
+      "fully_synced_at": "2025-08-31 06:32:54.274071"
     },
     "185808689": {
       "tag_name": "v3.39.2",
-      "fully_synced_at": "2025-08-29 06:35:08.856057"
+      "fully_synced_at": "2025-08-31 06:32:57.314844"
     },
     "185814833": {
       "tag_name": "v3.39.4",
-      "fully_synced_at": "2025-08-29 06:35:12.535268"
+      "fully_synced_at": "2025-08-31 06:33:00.791885"
     },
     "186769587": {
       "tag_name": "v3.40.0",
-      "fully_synced_at": "2025-08-29 06:35:15.941454"
+      "fully_synced_at": "2025-08-31 06:33:04.176914"
     },
     "190445791": {
       "tag_name": "v3.41.0",
-      "fully_synced_at": "2025-08-29 06:35:19.418888"
+      "fully_synced_at": "2025-08-31 06:33:07.384218"
     },
     "196971262": {
       "tag_name": "v3.42.0",
-      "fully_synced_at": "2025-08-29 06:35:22.825124"
+      "fully_synced_at": "2025-08-31 06:33:10.836963"
     },
     "206101543": {
       "tag_name": "v3.43.0",
-      "fully_synced_at": "2025-08-29 06:35:26.236187"
+      "fully_synced_at": "2025-08-31 06:33:13.871135"
     },
     "208720686": {
       "tag_name": "v3.44.0",
-      "fully_synced_at": "2025-08-29 06:35:29.456598"
+      "fully_synced_at": "2025-08-31 06:33:17.286407"
     },
     "220773112": {
       "tag_name": "v3.45.0",
-      "fully_synced_at": "2025-08-29 06:35:33.143160"
+      "fully_synced_at": "2025-08-31 06:33:20.366977"
     },
     "228420098": {
       "tag_name": "v3.45.1",
-      "fully_synced_at": "2025-08-29 06:35:36.297159"
+      "fully_synced_at": "2025-08-31 06:33:23.752821"
     },
     "170718825": {
       "tag_name": "beta",
-      "fully_synced_at": "2025-08-29 06:39:54.600696"
+      "fully_synced_at": "2025-08-31 06:39:34.404121"
     },
     "235343712": {
       "tag_name": "v3.46.0",
-      "fully_synced_at": "2025-08-29 06:35:39.525012"
+      "fully_synced_at": "2025-08-31 06:33:26.969807"
     },
     "235354178": {
       "tag_name": "v3.46.1",
-      "fully_synced_at": "2025-08-29 06:35:43.241343"
+      "fully_synced_at": "2025-08-31 06:33:30.364749"
     },
     "235454300": {
       "tag_name": "v3.46.2",
-      "fully_synced_at": "2025-08-29 06:35:46.455698"
+      "fully_synced_at": "2025-08-31 06:33:33.795942"
     },
     "235939730": {
       "tag_name": "v3.47.0",
-      "fully_synced_at": "2025-08-29 06:35:50.084533"
+      "fully_synced_at": "2025-08-31 06:33:36.898614"
     },
     "236152939": {
       "tag_name": "v3.47.1",
-      "fully_synced_at": "2025-08-29 06:35:53.502941"
+      "fully_synced_at": "2025-08-31 06:33:40.942711"
     },
     "237219344": {
       "tag_name": "v3.48.0",
-      "fully_synced_at": "2025-08-29 06:35:56.837530"
+      "fully_synced_at": "2025-08-31 06:33:44.058667"
     },
     "237886660": {
       "tag_name": "v3.49.0",
-      "fully_synced_at": "2025-08-29 06:36:00.255002"
+      "fully_synced_at": "2025-08-31 06:33:47.406310"
     },
     "240243250": {
       "tag_name": "v3.50.0",
-      "fully_synced_at": "2025-08-29 06:36:03.773028"
+      "fully_synced_at": "2025-08-31 06:33:50.725034"
     },
     "240815549": {
       "tag_name": "v3.51.0",
-      "fully_synced_at": "2025-08-29 06:36:07.028950"
+      "fully_synced_at": "2025-08-31 06:33:54.047565"
+    },
+    "243480261": {
+      "tag_name": "v3.52.0",
+      "fully_synced_at": "2025-08-31 06:36:05.206540"
     }
   },
   "assets": {
@@ -21880,38 +21884,38 @@
       "md5-android.txt_300": {
         "name": "md5-android.txt",
         "size": 300,
-        "updated_at": "2025-08-29T06:39:40+00:00",
-        "synced_at": "2025-08-29 06:39:40.217109"
+        "updated_at": "2025-08-31T06:39:20+00:00",
+        "synced_at": "2025-08-31 06:39:20.572718"
       },
       "md5-freebsd.txt_239": {
         "name": "md5-freebsd.txt",
         "size": 239,
-        "updated_at": "2025-08-29T06:39:42+00:00",
-        "synced_at": "2025-08-29 06:39:43.114166"
+        "updated_at": "2025-08-31T06:39:23+00:00",
+        "synced_at": "2025-08-31 06:39:23.283023"
       },
       "md5-linux-musl-arm.txt_908": {
         "name": "md5-linux-musl-arm.txt",
         "size": 908,
-        "updated_at": "2025-08-29T06:39:45+00:00",
-        "synced_at": "2025-08-29 06:39:45.896941"
+        "updated_at": "2025-08-31T06:39:25+00:00",
+        "synced_at": "2025-08-31 06:39:26.055049"
       },
       "md5-linux-musl.txt_655": {
         "name": "md5-linux-musl.txt",
         "size": 655,
-        "updated_at": "2025-08-29T06:39:48+00:00",
-        "synced_at": "2025-08-29 06:39:48.687280"
+        "updated_at": "2025-08-31T06:39:28+00:00",
+        "synced_at": "2025-08-31 06:39:28.862480"
       },
       "md5-windows-arm64.txt_118": {
         "name": "md5-windows-arm64.txt",
         "size": 118,
-        "updated_at": "2025-08-29T06:39:51+00:00",
-        "synced_at": "2025-08-29 06:39:51.658745"
+        "updated_at": "2025-08-31T06:39:31+00:00",
+        "synced_at": "2025-08-31 06:39:31.552831"
       },
       "md5.txt_1085": {
         "name": "md5.txt",
         "size": 1085,
-        "updated_at": "2025-08-29T06:39:54+00:00",
-        "synced_at": "2025-08-29 06:39:54.567838"
+        "updated_at": "2025-08-31T06:39:34+00:00",
+        "synced_at": "2025-08-31 06:39:34.370096"
       },
       "alist-android-386.tar.gz_33332463": {
         "name": "alist-android-386.tar.gz",
@@ -25278,6 +25282,288 @@
         "size": 1321,
         "updated_at": "2025-08-29T06:39:37+00:00",
         "synced_at": "2025-08-29 06:39:37.429475"
+      },
+      "alist-android-386.tar.gz_40686522": {
+        "name": "alist-android-386.tar.gz",
+        "size": 40686522,
+        "updated_at": "2025-08-31T06:36:15+00:00",
+        "synced_at": "2025-08-31 06:36:15.504125"
+      },
+      "alist-android-amd64.tar.gz_40935976": {
+        "name": "alist-android-amd64.tar.gz",
+        "size": 40935976,
+        "updated_at": "2025-08-31T06:36:19+00:00",
+        "synced_at": "2025-08-31 06:36:19.413565"
+      },
+      "alist-android-arm.tar.gz_39049035": {
+        "name": "alist-android-arm.tar.gz",
+        "size": 39049035,
+        "updated_at": "2025-08-31T06:36:22+00:00",
+        "synced_at": "2025-08-31 06:36:23.063118"
+      },
+      "alist-android-arm64.tar.gz_39559236": {
+        "name": "alist-android-arm64.tar.gz",
+        "size": 39559236,
+        "updated_at": "2025-08-31T06:36:27+00:00",
+        "synced_at": "2025-08-31 06:36:27.127524"
+      },
+      "alist-darwin-amd64.tar.gz_40370611": {
+        "name": "alist-darwin-amd64.tar.gz",
+        "size": 40370611,
+        "updated_at": "2025-08-31T06:36:30+00:00",
+        "synced_at": "2025-08-31 06:36:31.008691"
+      },
+      "alist-darwin-arm64.tar.gz_39037986": {
+        "name": "alist-darwin-arm64.tar.gz",
+        "size": 39037986,
+        "updated_at": "2025-08-31T06:36:34+00:00",
+        "synced_at": "2025-08-31 06:36:34.856103"
+      },
+      "alist-freebsd-386.tar.gz_37593144": {
+        "name": "alist-freebsd-386.tar.gz",
+        "size": 37593144,
+        "updated_at": "2025-08-31T06:36:38+00:00",
+        "synced_at": "2025-08-31 06:36:38.587165"
+      },
+      "alist-freebsd-amd64.tar.gz_38935285": {
+        "name": "alist-freebsd-amd64.tar.gz",
+        "size": 38935285,
+        "updated_at": "2025-08-31T06:36:42+00:00",
+        "synced_at": "2025-08-31 06:36:42.483892"
+      },
+      "alist-freebsd-arm64.tar.gz_37023916": {
+        "name": "alist-freebsd-arm64.tar.gz",
+        "size": 37023916,
+        "updated_at": "2025-08-31T06:36:46+00:00",
+        "synced_at": "2025-08-31 06:36:46.153737"
+      },
+      "alist-linux-386.tar.gz_37826570": {
+        "name": "alist-linux-386.tar.gz",
+        "size": 37826570,
+        "updated_at": "2025-08-31T06:36:49+00:00",
+        "synced_at": "2025-08-31 06:36:49.732481"
+      },
+      "alist-linux-amd64.tar.gz_40112167": {
+        "name": "alist-linux-amd64.tar.gz",
+        "size": 40112167,
+        "updated_at": "2025-08-31T06:36:53+00:00",
+        "synced_at": "2025-08-31 06:36:53.560702"
+      },
+      "alist-linux-arm-5.tar.gz_37762761": {
+        "name": "alist-linux-arm-5.tar.gz",
+        "size": 37762761,
+        "updated_at": "2025-08-31T06:36:57+00:00",
+        "synced_at": "2025-08-31 06:36:57.264679"
+      },
+      "alist-linux-arm-6.tar.gz_37705358": {
+        "name": "alist-linux-arm-6.tar.gz",
+        "size": 37705358,
+        "updated_at": "2025-08-31T06:37:00+00:00",
+        "synced_at": "2025-08-31 06:37:01.025116"
+      },
+      "alist-linux-arm-7.tar.gz_37671059": {
+        "name": "alist-linux-arm-7.tar.gz",
+        "size": 37671059,
+        "updated_at": "2025-08-31T06:37:04+00:00",
+        "synced_at": "2025-08-31 06:37:04.819459"
+      },
+      "alist-linux-arm64.tar.gz_38117541": {
+        "name": "alist-linux-arm64.tar.gz",
+        "size": 38117541,
+        "updated_at": "2025-08-31T06:37:08+00:00",
+        "synced_at": "2025-08-31 06:37:08.388471"
+      },
+      "alist-linux-mips.tar.gz_36605946": {
+        "name": "alist-linux-mips.tar.gz",
+        "size": 36605946,
+        "updated_at": "2025-08-31T06:37:12+00:00",
+        "synced_at": "2025-08-31 06:37:12.125379"
+      },
+      "alist-linux-mips64.tar.gz_36240547": {
+        "name": "alist-linux-mips64.tar.gz",
+        "size": 36240547,
+        "updated_at": "2025-08-31T06:37:15+00:00",
+        "synced_at": "2025-08-31 06:37:15.788345"
+      },
+      "alist-linux-mips64le.tar.gz_35789047": {
+        "name": "alist-linux-mips64le.tar.gz",
+        "size": 35789047,
+        "updated_at": "2025-08-31T06:37:19+00:00",
+        "synced_at": "2025-08-31 06:37:19.479700"
+      },
+      "alist-linux-mipsle.tar.gz_36220068": {
+        "name": "alist-linux-mipsle.tar.gz",
+        "size": 36220068,
+        "updated_at": "2025-08-31T06:37:23+00:00",
+        "synced_at": "2025-08-31 06:37:23.175524"
+      },
+      "alist-linux-musl-386.tar.gz_37653415": {
+        "name": "alist-linux-musl-386.tar.gz",
+        "size": 37653415,
+        "updated_at": "2025-08-31T06:37:27+00:00",
+        "synced_at": "2025-08-31 06:37:27.222542"
+      },
+      "alist-linux-musl-amd64.tar.gz_40004333": {
+        "name": "alist-linux-musl-amd64.tar.gz",
+        "size": 40004333,
+        "updated_at": "2025-08-31T06:37:31+00:00",
+        "synced_at": "2025-08-31 06:37:31.285779"
+      },
+      "alist-linux-musl-arm64.tar.gz_38099069": {
+        "name": "alist-linux-musl-arm64.tar.gz",
+        "size": 38099069,
+        "updated_at": "2025-08-31T06:37:38+00:00",
+        "synced_at": "2025-08-31 06:37:38.436450"
+      },
+      "alist-linux-musl-mips.tar.gz_36575163": {
+        "name": "alist-linux-musl-mips.tar.gz",
+        "size": 36575163,
+        "updated_at": "2025-08-31T06:37:42+00:00",
+        "synced_at": "2025-08-31 06:37:42.130842"
+      },
+      "alist-linux-musl-mips64.tar.gz_36217560": {
+        "name": "alist-linux-musl-mips64.tar.gz",
+        "size": 36217560,
+        "updated_at": "2025-08-31T06:37:45+00:00",
+        "synced_at": "2025-08-31 06:37:45.877031"
+      },
+      "alist-linux-musl-mips64le.tar.gz_35762940": {
+        "name": "alist-linux-musl-mips64le.tar.gz",
+        "size": 35762940,
+        "updated_at": "2025-08-31T06:37:49+00:00",
+        "synced_at": "2025-08-31 06:37:49.515376"
+      },
+      "alist-linux-musl-mipsle.tar.gz_36183934": {
+        "name": "alist-linux-musl-mipsle.tar.gz",
+        "size": 36183934,
+        "updated_at": "2025-08-31T06:37:52+00:00",
+        "synced_at": "2025-08-31 06:37:53.149504"
+      },
+      "alist-linux-musl-ppc64le.tar.gz_36916921": {
+        "name": "alist-linux-musl-ppc64le.tar.gz",
+        "size": 36916921,
+        "updated_at": "2025-08-31T06:37:56+00:00",
+        "synced_at": "2025-08-31 06:37:56.835215"
+      },
+      "alist-linux-musl-riscv64.tar.gz_37601464": {
+        "name": "alist-linux-musl-riscv64.tar.gz",
+        "size": 37601464,
+        "updated_at": "2025-08-31T06:38:00+00:00",
+        "synced_at": "2025-08-31 06:38:00.833029"
+      },
+      "alist-linux-musl-s390x.tar.gz_38578815": {
+        "name": "alist-linux-musl-s390x.tar.gz",
+        "size": 38578815,
+        "updated_at": "2025-08-31T06:38:04+00:00",
+        "synced_at": "2025-08-31 06:38:04.590162"
+      },
+      "alist-linux-musleabi-arm.tar.gz_37616941": {
+        "name": "alist-linux-musleabi-arm.tar.gz",
+        "size": 37616941,
+        "updated_at": "2025-08-31T06:38:08+00:00",
+        "synced_at": "2025-08-31 06:38:08.467932"
+      },
+      "alist-linux-musleabi-armel.tar.gz_37616943": {
+        "name": "alist-linux-musleabi-armel.tar.gz",
+        "size": 37616943,
+        "updated_at": "2025-08-31T06:38:12+00:00",
+        "synced_at": "2025-08-31 06:38:12.714145"
+      },
+      "alist-linux-musleabi-armv5l.tar.gz_37713829": {
+        "name": "alist-linux-musleabi-armv5l.tar.gz",
+        "size": 37713829,
+        "updated_at": "2025-08-31T06:38:16+00:00",
+        "synced_at": "2025-08-31 06:38:16.834035"
+      },
+      "alist-linux-musleabi-armv6.tar.gz_37652508": {
+        "name": "alist-linux-musleabi-armv6.tar.gz",
+        "size": 37652508,
+        "updated_at": "2025-08-31T06:38:20+00:00",
+        "synced_at": "2025-08-31 06:38:20.857721"
+      },
+      "alist-linux-musleabi-armv7m.tar.gz_37616640": {
+        "name": "alist-linux-musleabi-armv7m.tar.gz",
+        "size": 37616640,
+        "updated_at": "2025-08-31T06:38:25+00:00",
+        "synced_at": "2025-08-31 06:38:25.140775"
+      },
+      "alist-linux-musleabihf-arm.tar.gz_37618292": {
+        "name": "alist-linux-musleabihf-arm.tar.gz",
+        "size": 37618292,
+        "updated_at": "2025-08-31T06:38:29+00:00",
+        "synced_at": "2025-08-31 06:38:29.220249"
+      },
+      "alist-linux-musleabihf-armel.tar.gz_37618347": {
+        "name": "alist-linux-musleabihf-armel.tar.gz",
+        "size": 37618347,
+        "updated_at": "2025-08-31T06:38:33+00:00",
+        "synced_at": "2025-08-31 06:38:33.316551"
+      },
+      "alist-linux-musleabihf-armv5l.tar.gz_37712917": {
+        "name": "alist-linux-musleabihf-armv5l.tar.gz",
+        "size": 37712917,
+        "updated_at": "2025-08-31T06:38:37+00:00",
+        "synced_at": "2025-08-31 06:38:37.452591"
+      },
+      "alist-linux-musleabihf-armv6.tar.gz_37649555": {
+        "name": "alist-linux-musleabihf-armv6.tar.gz",
+        "size": 37649555,
+        "updated_at": "2025-08-31T06:38:41+00:00",
+        "synced_at": "2025-08-31 06:38:41.862869"
+      },
+      "alist-linux-musleabihf-armv7l.tar.gz_37617853": {
+        "name": "alist-linux-musleabihf-armv7l.tar.gz",
+        "size": 37617853,
+        "updated_at": "2025-08-31T06:38:45+00:00",
+        "synced_at": "2025-08-31 06:38:46.020096"
+      },
+      "alist-linux-musleabihf-armv7r.tar.gz_37617848": {
+        "name": "alist-linux-musleabihf-armv7r.tar.gz",
+        "size": 37617848,
+        "updated_at": "2025-08-31T06:38:49+00:00",
+        "synced_at": "2025-08-31 06:38:49.944930"
+      },
+      "alist-linux-ppc64le.tar.gz_36952731": {
+        "name": "alist-linux-ppc64le.tar.gz",
+        "size": 36952731,
+        "updated_at": "2025-08-31T06:38:53+00:00",
+        "synced_at": "2025-08-31 06:38:54.063823"
+      },
+      "alist-linux-riscv64.tar.gz_37787140": {
+        "name": "alist-linux-riscv64.tar.gz",
+        "size": 37787140,
+        "updated_at": "2025-08-31T06:38:58+00:00",
+        "synced_at": "2025-08-31 06:38:58.288533"
+      },
+      "alist-linux-s390x.tar.gz_38664604": {
+        "name": "alist-linux-s390x.tar.gz",
+        "size": 38664604,
+        "updated_at": "2025-08-31T06:39:02+00:00",
+        "synced_at": "2025-08-31 06:39:02.246380"
+      },
+      "alist-windows-386.zip_38428571": {
+        "name": "alist-windows-386.zip",
+        "size": 38428571,
+        "updated_at": "2025-08-31T06:39:06+00:00",
+        "synced_at": "2025-08-31 06:39:06.450867"
+      },
+      "alist-windows-amd64.zip_40481041": {
+        "name": "alist-windows-amd64.zip",
+        "size": 40481041,
+        "updated_at": "2025-08-31T06:39:10+00:00",
+        "synced_at": "2025-08-31 06:39:10.817507"
+      },
+      "alist-windows-arm64.zip_38287177": {
+        "name": "alist-windows-arm64.zip",
+        "size": 38287177,
+        "updated_at": "2025-08-31T06:39:14+00:00",
+        "synced_at": "2025-08-31 06:39:14.982111"
+      },
+      "CHANGELOG.md_1686": {
+        "name": "CHANGELOG.md",
+        "size": 1686,
+        "updated_at": "2025-08-31T06:39:17+00:00",
+        "synced_at": "2025-08-31 06:39:17.812695"
       }
     },
     "235343712": {
@@ -27955,6 +28241,296 @@
         "updated_at": "2025-08-21T06:48:47+00:00",
         "synced_at": "2025-08-21 06:48:47.609570"
       }
+    },
+    "243480261": {
+      "alist-android-386.tar.gz_40687831": {
+        "name": "alist-android-386.tar.gz",
+        "size": 40687831,
+        "updated_at": "2025-08-31T06:34:08+00:00",
+        "synced_at": "2025-08-31 06:34:08.154703"
+      },
+      "alist-android-amd64.tar.gz_40935854": {
+        "name": "alist-android-amd64.tar.gz",
+        "size": 40935854,
+        "updated_at": "2025-08-31T06:34:11+00:00",
+        "synced_at": "2025-08-31 06:34:11.183087"
+      },
+      "alist-android-arm.tar.gz_39048201": {
+        "name": "alist-android-arm.tar.gz",
+        "size": 39048201,
+        "updated_at": "2025-08-31T06:34:13+00:00",
+        "synced_at": "2025-08-31 06:34:13.636842"
+      },
+      "alist-android-arm64.tar.gz_39556156": {
+        "name": "alist-android-arm64.tar.gz",
+        "size": 39556156,
+        "updated_at": "2025-08-31T06:34:16+00:00",
+        "synced_at": "2025-08-31 06:34:16.145141"
+      },
+      "alist-darwin-amd64.tar.gz_40372071": {
+        "name": "alist-darwin-amd64.tar.gz",
+        "size": 40372071,
+        "updated_at": "2025-08-31T06:34:18+00:00",
+        "synced_at": "2025-08-31 06:34:18.484041"
+      },
+      "alist-darwin-arm64.tar.gz_39039645": {
+        "name": "alist-darwin-arm64.tar.gz",
+        "size": 39039645,
+        "updated_at": "2025-08-31T06:34:20+00:00",
+        "synced_at": "2025-08-31 06:34:20.940547"
+      },
+      "alist-freebsd-amd64.tar.gz_38937427": {
+        "name": "alist-freebsd-amd64.tar.gz",
+        "size": 38937427,
+        "updated_at": "2025-08-31T06:34:23+00:00",
+        "synced_at": "2025-08-31 06:34:23.596005"
+      },
+      "alist-freebsd-arm64.tar.gz_37020831": {
+        "name": "alist-freebsd-arm64.tar.gz",
+        "size": 37020831,
+        "updated_at": "2025-08-31T06:34:25+00:00",
+        "synced_at": "2025-08-31 06:34:26.065035"
+      },
+      "alist-freebsd-i386.tar.gz_37591247": {
+        "name": "alist-freebsd-i386.tar.gz",
+        "size": 37591247,
+        "updated_at": "2025-08-31T06:34:28+00:00",
+        "synced_at": "2025-08-31 06:34:28.566316"
+      },
+      "alist-linux-386.tar.gz_37824924": {
+        "name": "alist-linux-386.tar.gz",
+        "size": 37824924,
+        "updated_at": "2025-08-31T06:34:31+00:00",
+        "synced_at": "2025-08-31 06:34:31.268069"
+      },
+      "alist-linux-amd64.tar.gz_39987780": {
+        "name": "alist-linux-amd64.tar.gz",
+        "size": 39987780,
+        "updated_at": "2025-08-31T06:34:33+00:00",
+        "synced_at": "2025-08-31 06:34:33.854213"
+      },
+      "alist-linux-arm-5.tar.gz_37765274": {
+        "name": "alist-linux-arm-5.tar.gz",
+        "size": 37765274,
+        "updated_at": "2025-08-31T06:34:36+00:00",
+        "synced_at": "2025-08-31 06:34:36.263498"
+      },
+      "alist-linux-arm-6.tar.gz_37712832": {
+        "name": "alist-linux-arm-6.tar.gz",
+        "size": 37712832,
+        "updated_at": "2025-08-31T06:34:38+00:00",
+        "synced_at": "2025-08-31 06:34:38.925594"
+      },
+      "alist-linux-arm-7.tar.gz_37670319": {
+        "name": "alist-linux-arm-7.tar.gz",
+        "size": 37670319,
+        "updated_at": "2025-08-31T06:34:41+00:00",
+        "synced_at": "2025-08-31 06:34:41.382051"
+      },
+      "alist-linux-arm64.tar.gz_38113716": {
+        "name": "alist-linux-arm64.tar.gz",
+        "size": 38113716,
+        "updated_at": "2025-08-31T06:34:43+00:00",
+        "synced_at": "2025-08-31 06:34:43.830430"
+      },
+      "alist-linux-mips.tar.gz_36606878": {
+        "name": "alist-linux-mips.tar.gz",
+        "size": 36606878,
+        "updated_at": "2025-08-31T06:34:46+00:00",
+        "synced_at": "2025-08-31 06:34:46.384760"
+      },
+      "alist-linux-mips64.tar.gz_36244742": {
+        "name": "alist-linux-mips64.tar.gz",
+        "size": 36244742,
+        "updated_at": "2025-08-31T06:34:48+00:00",
+        "synced_at": "2025-08-31 06:34:48.789954"
+      },
+      "alist-linux-mips64le.tar.gz_35788458": {
+        "name": "alist-linux-mips64le.tar.gz",
+        "size": 35788458,
+        "updated_at": "2025-08-31T06:34:51+00:00",
+        "synced_at": "2025-08-31 06:34:51.263290"
+      },
+      "alist-linux-mipsle.tar.gz_36225280": {
+        "name": "alist-linux-mipsle.tar.gz",
+        "size": 36225280,
+        "updated_at": "2025-08-31T06:34:53+00:00",
+        "synced_at": "2025-08-31 06:34:53.705142"
+      },
+      "alist-linux-musl-amd64.tar.gz_39998919": {
+        "name": "alist-linux-musl-amd64.tar.gz",
+        "size": 39998919,
+        "updated_at": "2025-08-31T06:34:56+00:00",
+        "synced_at": "2025-08-31 06:34:56.381341"
+      },
+      "alist-linux-musl-arm64.tar.gz_38102256": {
+        "name": "alist-linux-musl-arm64.tar.gz",
+        "size": 38102256,
+        "updated_at": "2025-08-31T06:34:58+00:00",
+        "synced_at": "2025-08-31 06:34:58.903533"
+      },
+      "alist-linux-musl-mips.tar.gz_36575220": {
+        "name": "alist-linux-musl-mips.tar.gz",
+        "size": 36575220,
+        "updated_at": "2025-08-31T06:35:01+00:00",
+        "synced_at": "2025-08-31 06:35:01.257204"
+      },
+      "alist-linux-musl-mips64.tar.gz_36219498": {
+        "name": "alist-linux-musl-mips64.tar.gz",
+        "size": 36219498,
+        "updated_at": "2025-08-31T06:35:03+00:00",
+        "synced_at": "2025-08-31 06:35:03.744743"
+      },
+      "alist-linux-musl-ppc64le.tar.gz_36918524": {
+        "name": "alist-linux-musl-ppc64le.tar.gz",
+        "size": 36918524,
+        "updated_at": "2025-08-31T06:35:06+00:00",
+        "synced_at": "2025-08-31 06:35:06.328106"
+      },
+      "alist-linux-musl-s390x.tar.gz_38578481": {
+        "name": "alist-linux-musl-s390x.tar.gz",
+        "size": 38578481,
+        "updated_at": "2025-08-31T06:35:08+00:00",
+        "synced_at": "2025-08-31 06:35:08.865057"
+      },
+      "alist-linux-musleabi-arm.tar.gz_37622501": {
+        "name": "alist-linux-musleabi-arm.tar.gz",
+        "size": 37622501,
+        "updated_at": "2025-08-31T06:35:11+00:00",
+        "synced_at": "2025-08-31 06:35:11.289184"
+      },
+      "alist-linux-musleabi-armel.tar.gz_37622648": {
+        "name": "alist-linux-musleabi-armel.tar.gz",
+        "size": 37622648,
+        "updated_at": "2025-08-31T06:35:13+00:00",
+        "synced_at": "2025-08-31 06:35:13.870665"
+      },
+      "alist-linux-musleabi-armv5l.tar.gz_37719446": {
+        "name": "alist-linux-musleabi-armv5l.tar.gz",
+        "size": 37719446,
+        "updated_at": "2025-08-31T06:35:16+00:00",
+        "synced_at": "2025-08-31 06:35:16.353783"
+      },
+      "alist-linux-musleabi-armv6.tar.gz_37652265": {
+        "name": "alist-linux-musleabi-armv6.tar.gz",
+        "size": 37652265,
+        "updated_at": "2025-08-31T06:35:18+00:00",
+        "synced_at": "2025-08-31 06:35:18.922566"
+      },
+      "alist-linux-musleabi-armv7m.tar.gz_37620067": {
+        "name": "alist-linux-musleabi-armv7m.tar.gz",
+        "size": 37620067,
+        "updated_at": "2025-08-31T06:35:21+00:00",
+        "synced_at": "2025-08-31 06:35:21.704781"
+      },
+      "alist-linux-musleabihf-arm.tar.gz_37617976": {
+        "name": "alist-linux-musleabihf-arm.tar.gz",
+        "size": 37617976,
+        "updated_at": "2025-08-31T06:35:24+00:00",
+        "synced_at": "2025-08-31 06:35:24.383826"
+      },
+      "alist-linux-musleabihf-armel.tar.gz_37618161": {
+        "name": "alist-linux-musleabihf-armel.tar.gz",
+        "size": 37618161,
+        "updated_at": "2025-08-31T06:35:26+00:00",
+        "synced_at": "2025-08-31 06:35:26.952904"
+      },
+      "alist-linux-musleabihf-armv5l.tar.gz_37715417": {
+        "name": "alist-linux-musleabihf-armv5l.tar.gz",
+        "size": 37715417,
+        "updated_at": "2025-08-31T06:35:29+00:00",
+        "synced_at": "2025-08-31 06:35:29.653747"
+      },
+      "alist-linux-musleabihf-armv6.tar.gz_37649862": {
+        "name": "alist-linux-musleabihf-armv6.tar.gz",
+        "size": 37649862,
+        "updated_at": "2025-08-31T06:35:32+00:00",
+        "synced_at": "2025-08-31 06:35:32.431009"
+      },
+      "alist-linux-musleabihf-armv7l.tar.gz_37619295": {
+        "name": "alist-linux-musleabihf-armv7l.tar.gz",
+        "size": 37619295,
+        "updated_at": "2025-08-31T06:35:35+00:00",
+        "synced_at": "2025-08-31 06:35:35.126937"
+      },
+      "alist-linux-musleabihf-armv7r.tar.gz_37619296": {
+        "name": "alist-linux-musleabihf-armv7r.tar.gz",
+        "size": 37619296,
+        "updated_at": "2025-08-31T06:35:37+00:00",
+        "synced_at": "2025-08-31 06:35:38.659435"
+      },
+      "alist-linux-ppc64le.tar.gz_36954033": {
+        "name": "alist-linux-ppc64le.tar.gz",
+        "size": 36954033,
+        "updated_at": "2025-08-31T06:35:41+00:00",
+        "synced_at": "2025-08-31 06:35:41.619493"
+      },
+      "alist-linux-riscv64.tar.gz_37788814": {
+        "name": "alist-linux-riscv64.tar.gz",
+        "size": 37788814,
+        "updated_at": "2025-08-31T06:35:44+00:00",
+        "synced_at": "2025-08-31 06:35:44.293052"
+      },
+      "alist-linux-s390x.tar.gz_38662118": {
+        "name": "alist-linux-s390x.tar.gz",
+        "size": 38662118,
+        "updated_at": "2025-08-31T06:35:46+00:00",
+        "synced_at": "2025-08-31 06:35:46.892094"
+      },
+      "alist-windows-386.zip_38425868": {
+        "name": "alist-windows-386.zip",
+        "size": 38425868,
+        "updated_at": "2025-08-31T06:35:49+00:00",
+        "synced_at": "2025-08-31 06:35:49.545458"
+      },
+      "alist-windows-amd64-upx.zip_40289323": {
+        "name": "alist-windows-amd64-upx.zip",
+        "size": 40289323,
+        "updated_at": "2025-08-31T06:35:52+00:00",
+        "synced_at": "2025-08-31 06:35:52.227746"
+      },
+      "alist-windows-amd64.zip_40485491": {
+        "name": "alist-windows-amd64.zip",
+        "size": 40485491,
+        "updated_at": "2025-08-31T06:35:55+00:00",
+        "synced_at": "2025-08-31 06:35:55.194690"
+      },
+      "alist-windows-arm64.zip_38286925": {
+        "name": "alist-windows-arm64.zip",
+        "size": 38286925,
+        "updated_at": "2025-08-31T06:35:57+00:00",
+        "synced_at": "2025-08-31 06:35:57.797580"
+      },
+      "md5-android.txt_300": {
+        "name": "md5-android.txt",
+        "size": 300,
+        "updated_at": "2025-08-31T06:35:59+00:00",
+        "synced_at": "2025-08-31 06:35:59.281018"
+      },
+      "md5-freebsd.txt_240": {
+        "name": "md5-freebsd.txt",
+        "size": 240,
+        "updated_at": "2025-08-31T06:36:00+00:00",
+        "synced_at": "2025-08-31 06:36:00.748483"
+      },
+      "md5-linux-musl-arm.txt_842": {
+        "name": "md5-linux-musl-arm.txt",
+        "size": 842,
+        "updated_at": "2025-08-31T06:36:02+00:00",
+        "synced_at": "2025-08-31 06:36:02.277599"
+      },
+      "md5-linux-musl.txt_453": {
+        "name": "md5-linux-musl.txt",
+        "size": 453,
+        "updated_at": "2025-08-31T06:36:03+00:00",
+        "synced_at": "2025-08-31 06:36:03.758562"
+      },
+      "md5.txt_1209": {
+        "name": "md5.txt",
+        "size": 1209,
+        "updated_at": "2025-08-31T06:36:05+00:00",
+        "synced_at": "2025-08-31 06:36:05.173530"
+      }
     }
   },
   "source_codes": {
@@ -29326,6 +29902,16 @@
       "SourceCode_v3.51.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-21 06:46:37.696259"
+      }
+    },
+    "v3.52.0": {
+      "SourceCode_v3.52.0.zip": {
+        "exists": true,
+        "synced_at": "2025-08-31 06:34:03.503054"
+      },
+      "SourceCode_v3.52.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-31 06:34:04.950352"
       }
     }
   }
